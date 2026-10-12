@@ -1,2 +1,2 @@
 # ds-readme
-For readme
+For awesome readme for studying Git
